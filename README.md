@@ -6,4 +6,5 @@ Installations:
 1.Download the project and open in an editor.
 2.Run index.html file.
 
-Play the game now : https://hari-cr7.github.io/catchtherabbit/
+Play the game now : https://hari18102003.github.io/catchtherabbit/
+
