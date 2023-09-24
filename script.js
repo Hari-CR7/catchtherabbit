@@ -16,6 +16,11 @@ $(document).keypress(function () {
     start = true;
     $(".result").text('');
 });
+$(".start-btn").click(function () {
+    start = true;
+    $(".result").text('');
+    $(".start-btn").css("display", "none");
+});
 
 setInterval(function () {
     if (stop === false && start === true) {
